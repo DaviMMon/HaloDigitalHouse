@@ -2,9 +2,9 @@
 body {font-family: @import url ('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&display=swap');}
 span {background-color:#029E14;}
 h1 {background-color:#029E14;
-  font-weight:400;}
+  font-weight:300;}
 p {font-size:30px;}
-main img {height:35%;
+header img {height:35%;
 width:35%;}
-footer img {height:35%;
-width:35%;}
+footer img {height:50%;
+  width:50%}
